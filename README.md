@@ -1,20 +1,24 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+Este repositório contém uma API desenvolvida em .NET para gerenciamento de dados (CRUD). Este é um projeto em construção, voltado para estudo, e busca simular cenários reais, aplicando conceitos de arquitetura e desenvolvimento backend de forma prática.
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Tecnologias Utilizadas
+Linguagem: C#
+Plataforma: .NET
+Banco de Dados: SQLite, MySQL ou SQLServer
+ORM: Entity Framework
+Segurança: JWT e Refresh Token para autenticação
+Validação de Dados: FluentValidation
+Testes: Testes de unidade e integração
+Controle de Versão: Git e GitFlow
+Integrações: Swagger para documentação da API
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+Funcionalidades Estudadas
+Cadastro e gerenciamento de usuários.
+Operações CRUD (Create, Read, Update, Delete) para receitas ou outros dados.
+Validação de entradas de dados.
+Implementação de autenticação e autorização com JWT.
+Integração com banco de dados utilizando ORM.
+Documentação da API com Swagger.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
-
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+Status do Projeto
+🚧 Em Construção 🚧
+Este projeto está em fase de desenvolvimento e será atualizado constantemente conforme o progresso dos estudos.
